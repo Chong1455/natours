@@ -15,7 +15,7 @@ Live demo👉: https://natours-cks.herokuapp.com/
 # Build with
 * NodeJS - JS runtime environment
 * Express - Web application framework
-* MongoDB - NoSQL databae
+* MongoDB - NoSQL database
 * Pug - High performance template engine
 * JSON Web Token - Security token
 * Stripe - Online payment API
