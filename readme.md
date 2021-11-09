@@ -29,7 +29,7 @@ Live demo👉: https://natours-cks.herokuapp.com/
 3. Run `npm start`
 
 # API Usage
-Get all tours 👉 https://natours-cks.herokuapp.com/api/v1/tours
+Get All Tours 👉 https://natours-cks.herokuapp.com/api/v1/tours
 
 Get Top 5 Cheap Tours 👉 https://natours-cks.herokuapp.com/api/v1/tours/top-5-cheap
 
